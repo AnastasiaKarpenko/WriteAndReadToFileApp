@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WriteAndReadToFileApp</string>
+    <string name="switch_text">external storage?</string>
+    <string name="btn_delete_text">Delete</string>
+</resources>
